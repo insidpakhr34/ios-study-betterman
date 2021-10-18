@@ -1,6 +1,6 @@
 # ios-study-betterman
 - swift
-@Binding : https://value-of-life.tistory.com/160
+@Binding : https://value-of-life.tistory.com/160 /n
 closeure : https://devxoul.gitbooks.io/ios-with-swift-in-40-hours/content/Chapter-3/functions-and-closures.html
 escaping closeure : https://hcn1519.github.io/articles/2017-09/swift_escaping_closure
 고차함수? : https://yagom.github.io/swift_basic/contents/22_higher_order_function/
